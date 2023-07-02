@@ -25,4 +25,4 @@ const Class = new mongoose.Schema({
 });
 
 const collage = mongoose.model("CollageData" , Class)
-module.exports = collage;
+module.exports = collage; // hello
